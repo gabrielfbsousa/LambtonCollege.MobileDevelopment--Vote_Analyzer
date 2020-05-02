@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{794B2112-F3C1-4F89-80BB-7C9CFA9339C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VoteAnalyzer/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="VoteAnalyzer/BasicSearchActivity.cs" Line="16" Column="82" />
+      <File FileName="VoteAnalyzer/BasicSearchService.cs" Line="335" Column="30" />
+      <File FileName="VoteAnalyzer/Candidate.cs" Line="20" Column="37" />
+      <File FileName="VoteAnalyzer/RankingService.cs" Line="203" Column="9" />
+      <File FileName="VoteAnalyzer/RankingActivity.cs" Line="16" Column="78" />
+      <File FileName="VoteAnalyzer/ElectionSimulationActivity.cs" Line="16" Column="89" />
+      <File FileName="VoteAnalyzer/Properties/AndroidManifest.xml" Line="5" Column="12" />
+      <File FileName="VoteAnalyzer/MainActivity.cs" Line="8" Column="96" />
+      <File FileName="VoteAnalyzer/CandidateSummaryActivity.cs" Line="16" Column="87" />
+      <File FileName="VoteAnalyzer/MainLayoutActivity.cs" Line="16" Column="81" />
+      <File FileName="VoteAnalyzer/SelectStateActivity.cs" Line="17" Column="82" />
+      <File FileName="VoteAnalyzer/obj/Debug/android/manifest/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VoteAnalyzer AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.Material.Light.DarkActionBar" />
+</Properties>
